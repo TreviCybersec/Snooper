@@ -1,0 +1,10 @@
+
+venv/
+venvIDE/
+output/
+backup/
+.idea/
+
+*.pyc
+commands.txt
+test.py
